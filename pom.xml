@@ -77,13 +77,14 @@
 
 
        </plugins>
-    </build>
-  
+ </build>
   <scm>
     <connection>scm:git:https://github.com/Sowmyakommireddy/sample-springboot-example-practice.git</connection>
     <developerConnection>scm:git:https://github.com/Sowmyakommireddy/sample-springboot-example-practice.git</developerConnection>
     <tag>HEAD</tag>
     <url>scm:git:https://github.com/Sowmyakommireddy/sample-springboot-example-practice.git</url>
   </scm>
-
 </project>
+Previous
+Select a valid section to merge
+
